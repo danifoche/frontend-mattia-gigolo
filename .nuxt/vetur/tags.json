@@ -1,0 +1,11 @@
+{
+  "AtomsFooter": {
+    "description": "Auto imported from components/atoms/footer.vue"
+  },
+  "AtomsHeader": {
+    "description": "Auto imported from components/atoms/header.vue"
+  },
+  "AtomsHero": {
+    "description": "Auto imported from components/atoms/hero.vue"
+  }
+}

@@ -1,0 +1,8 @@
+// Custom text New Ticket Portal modifier
+@import "customModifier/text-modifiers";
+@import "customModifier/page-transitions";
+@import "customModifier/notification";
+
+.theme--light.v-time-picker-clock {
+  background: var(--v-surface-base) !important;
+}

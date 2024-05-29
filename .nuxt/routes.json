@@ -1,0 +1,16 @@
+[
+  {
+    "name": "gallery",
+    "path": "/gallery",
+    "component": "/Users/daniele/Documents/projects/personal/websites/mattia-gigolo/frontend/pages/gallery.vue",
+    "chunkName": "pages/gallery",
+    "_name": "_7843a780"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/daniele/Documents/projects/personal/websites/mattia-gigolo/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a4137300"
+  }
+]
